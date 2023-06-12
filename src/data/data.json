@@ -1,0 +1,131 @@
+{
+    "Header": {
+
+        "title": "PRIME999 - Play Like A King",
+        "paragraph": "At PRIME999, our mission is to revolutionize the way people engage with sports by offering a comprehensive and user-friendly platform for online sports . We aim to create a community where sports enthusiasts can come together to showcase their knowledge, passion, and skills while enjoying the thrill of wagering on their favorite teams and athletes."
+
+    },
+    "About": {
+        "paragraph": " Welcome to PRIME999, your trusted destination for online sports in India. We are a fully licensed and government-approved platform that brings the excitement of sports  right to your fingertips. At PRIME999, we strive to provide a safe, secure, and enjoyable  experience for sports enthusiasts across the nation.  At PRIME999, our mission is to revolutionize the way people engage with sports by offering a comprehensive and user-friendly platform for online sports . We aim to create a community where sports enthusiasts can come together to showcase their knowledge, passion, and skills while enjoying the thrill of wagering on their favorite teams and athletes.",        "Why": [
+            "You can bet on any live sports.",
+            "There in one single wallet.",
+            "Once you deposit amount, you can choose from any live casino, sports or slots games",
+            "All ‘Live’ or ‘In Play’ events are indicated by the ‘Live’ symbol, meaning you can bet on the action as it unfolds. Use any of our side navigation links or top navigation links to choose your favourite sports for  or your favourite live casino games",
+            "Use any of our side navigation links or top navigation links to choose your favourite sports for  or your favourite live casino games"
+           ],
+        "Why2": [
+            "We have curated selection of Indian Casino Games like Andar Bahar, 20-20 Cricket, Bollywood Casino, Teen Patti, and much more",
+            "Finding your way around at prime999 is easy.",
+            "Whether on a mobile device or desktop, you can navigate to any part of the website via the menu bar at the top of your screen.",
+            "On prime999, all sports are listed in the top navigation bar of the screen, with key events highlighted in the ‘Quick Links’ section, or ‘Highlights’ area on the home page. "
+        ]
+    },
+
+    "Services": [{
+            "icon": "fa fa-gavel",
+            "name": "Licensed and Regulated",
+            "text": "Our platform is fully licensed and regulated, ensuring that all our operations comply with the industry standards."
+        },
+        {
+            "icon": "fa fa-soccer-ball-o",
+            "name": "Wide Range of Sports and Events",
+            "text": "Whether you're a fan of football, basketball, cricket, tennis, or any other popular sport, you'll find a diverse range of  options at PRIME999 "
+        },
+        {
+            "icon": "fa fa-thumbs-up",
+            "name": "Fairness and Transparency",
+            "text": "We also provide transparent odds and detailed  information, empowering our users to make informed decisions and enjoy a level playing field."
+        },
+        {
+            "icon": "fa fa-language",
+            "name": "Responsible Gaming",
+            "text": "We are committed to promoting responsible gaming practices among our users. We provide robust tools and resources to help individuals maintain control over their  activities"
+        },
+        {
+            "icon": "fa fa-support",
+            "name": "Customer Support:",
+            "text": "At PRIME999, we value our users and their satisfaction is our top priority. Our dedicated customer support payments is available 24/7 to assist you with any queries, concerns, or technical issues you may encounter"
+        },
+        {
+            "icon": "fa fa-trophy",
+            "name": "Join PRIME999 Today",
+            "text": "We invite you to join our growing community of sports enthusiasts and experience the excitement of online sports  like never before."
+        }
+
+
+    ],
+    "Testimonials": [{
+            "img": "img/testimonials/05.jpg",
+            "text": "\"I can't believe how easy it is to bet on my favorite football matches at PRIME999. The odds are great, and the user-friendly interface makes it a breeze to place my bets. Highly recommended!\"",
+            "name": "Ashok D. - Football Enthusiast"
+        },
+        {
+            "img": "img/testimonials/10.jpg",
+            "text": "\"I've been using PRIME999 for my basketball bets, and I couldn't be happier. The platform offers a wide range of options and provides real-time updates on the games.The customer support payments is always there\"",
+            "name": "Rajesh K. Basketball Fan"
+        },
+        {
+            "img": "img/testimonials/11.jpg",
+            "text": "\"I've tried several sports betting platforms, but PRIME999 stands out from the rest. The platform is intuitive, and their live feature keeps me on the edge of my seat during tennis matches. \"",
+            "name": "Animesh B. - Tennis Lover"
+        },
+        {
+            "img": "img/testimonials/09.jpg",
+            "text": "\"Being a cricket fanatic, I was thrilled to discover PRIME999. They have an extensive range of cricket  options, covering both international and domestic matches. The odds allowing me to make informed decisions.\"",
+            "name": "Anjali Joshi. - Cricket Enthusiast"
+        },
+        {
+            "img": "img/testimonials/07.jpg",
+            "text": "\"I've been in the sports  game for years, and I must say, PRIME999 has impressed me. They offer a wide variety of sports, and their in-depth analysis and statistics help me make informed decisions. \"",
+            "name": "Ravi Shukla  - Sports Betting Pro"
+        },
+        {
+            "img": "img/testimonials/08.jpg",
+            "text": "\"The platform offers a vast selection of soccer leagues and tournaments to bet on, and the live streaming feature allows me to watch the matches while placing my bets. It's a winning combination!\"",
+            "name": "Priya Sharma. - Soccer Fanatic"
+        }
+    ],
+    "Payments": [{
+            "img": "img/payments/gpay11.png",
+            "name": "Google Pay"
+        },
+        {
+            "img": "img/payments/paytm11.png",
+            "name": "Paytm"
+        }, {
+            "img": "img/payments/phonepe11.png",
+            "name": "PhonePe"
+        },
+        {
+            "img": "img/payments/upi.png",
+            "name": "UPI"
+        }
+    ],
+    "Contact": {
+        "address": "4321 California St, San Francisco, CA 12345 ",
+        "phone": "+1 123 456 1234",
+        "email": "info@company.com",
+        "facebook": "fb.com",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com"
+    },
+    "Features": [{
+            "icon": "fa fa-instagram",
+            "link":"http://www.instagram.com/prime999official/",
+            "title": "Instagram - Click Here!",
+            "text": "Discover our official Instagram page, where we share exciting updates and exclusive content.Stay informed about our latest promotions, special offers, and bonuses available to our followers."
+        },
+        {
+            "icon": "fa fa-whatsapp",
+            "link":"",
+            "title": "Whatsapp - Click Here!",
+            "text": "Send a WhatsApp message to our dedicated number to receive your unique ID.Get personalized updates, offers, and notifications directly on WhatsApp."
+        },
+        {
+            "icon": "fa fa-send",
+            "link":"https://t.me/joinchat/UagL2jfRYdJ0G-BL",
+            "title": "Telegram -  Click Here!",
+            "text": "Stay updated with the latest offers, promotions, and news by joining our official Telegram channel.Receive exclusive updates and notifications directly to your Telegram app."
+        }
+    ]
+}
