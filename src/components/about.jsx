@@ -12,7 +12,7 @@ export const About = (props) => {
       <div className='row'>
       <div style={{ width: '100%', display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
      <ReactPlayer
-        url="../img/video.mp4"
+        url="../../public/img/video.mp4"
         controls
         playing
         muted={isMuted}
