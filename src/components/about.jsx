@@ -12,7 +12,7 @@ export const About = (props) => {
       <div className='row'>
       <div style={{ width: '100%', display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
      <ReactPlayer
-        url="../../public/img/video.mp4"
+        url= {props.data ? props.data.videoLink : 'loading...'}
         controls
         playing
         muted={isMuted}
@@ -30,7 +30,7 @@ export const About = (props) => {
         <div className='row'>
           <div className='col-xs-12 col-md-6'>
             {' '}
-            <img src='../img/PRIME999.png' className='img-responsive' alt='' />{' '}
+            <img src='img/PRIME999.png' className='img-responsive' alt='' />{' '}
           </div>
           <div className='col-xs-12 col-md-6'>
             <div className='about-text'>
