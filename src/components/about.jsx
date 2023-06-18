@@ -1,7 +1,32 @@
+import ReactPlayer from 'react-player';
+import React, { useState, useRef } from 'react';
 export const About = (props) => {
+  const [isMuted, setIsMuted] = useState(true);
+
+  const handleToggleMute = () => {
+    setIsMuted(!isMuted);
+  };
   return (
     <div id='about'>
       <div className='container'>
+      <div className='row'>
+      <div style={{ width: '100%', display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
+     <ReactPlayer
+        url="img/video.mp4"
+        controls
+        playing
+        muted={isMuted}
+        width="100%"
+        height="auto"
+      />
+      <button className=' btn btn-custom btn-lg page-scroll' style={{ marginTop: '10px' }} onClick={handleToggleMute}>
+        {isMuted ? 'Unmute' : 'Mute'}
+      </button>
+    </div>
+        </div>
+       <br />
+       <br />
+       <br />
         <div className='row'>
           <div className='col-xs-12 col-md-6'>
             {' '}
@@ -34,6 +59,7 @@ export const About = (props) => {
             </div>
           </div>
         </div>
+
       </div>
     </div>
   )
